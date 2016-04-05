@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Zoo Directory</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="title_activity_zoo">ZooActivity</string>
+    <string name="zoo_name">San Francisco Zoo</string>
+    <string name="contact">Contact Us</string>
+    <string name="info">Information</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="description">Description</string>
+</resources>
